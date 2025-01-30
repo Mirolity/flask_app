@@ -54,3 +54,18 @@
 
 ## Структура проекта
 
+my_flask_app/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── templates/
+└── index.html
+
+
+- `app.py`: Основной файл приложения Flask.
+- `requirements.txt`: Файл с зависимостями.
+- `README.md`: Этот файл.
+- `templates/index.html`: Шаблон HTML для отображения страницы.
+
+
